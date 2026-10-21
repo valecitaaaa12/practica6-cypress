@@ -63,7 +63,7 @@ Validar el correcto funcionamiento del portal web **Doctor Patient Portal** (JSP
 | HU-09 | CP-09 | Paciente cambia su contraseña y puede volver a ingresar con la nueva | Media | ✅ Aprobado |
 | HU-10 | CP-10 | Login de Doctor válido → dashboard Doctor | Media | ✅ Aprobado |
 
-**Resultado última ejecución:** 10/10 aprobados (0 fallos) — 3m36s — evidencia en `Practica6_Cypress/Evidencia_test_portal.txt` (repo `practica6-cypress`).
+**Última ejecución:** 10/10 aprobados (0 fallos) — re-validación 21-oct-2026 en 35s; evidencia en `Evidencia_test_portal.txt`.
 
 ## 6. Criterios de aceptación
 
